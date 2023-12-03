@@ -1,0 +1,18 @@
+.temp1{
+    background-color: #515603 !important;
+    color: white;
+}
+.temp2{
+    background: #722300;
+}
+.card {
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 3px 5px 5px rgba(1, 1, 1, 0.2);
+    transition: 0.2s ease-in-out;
+  }
+  .card:hover {
+    transform: scale(1.04);
+    box-shadow: 3px 5px 5px rgba(1, 1, 1, 0.3);
+    transition: 0.2s ease-in-out;
+  }
